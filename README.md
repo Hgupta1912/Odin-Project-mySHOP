@@ -4,7 +4,7 @@ A single-page grocery shopping app built with React. Browse products, view indiv
 
 Built as part of [The Odin Project](https://www.theodinproject.com) React curriculum.
 
-**Live demo:** _coming soon_
+**Live demo:** [link text](https://6a2df86aff4f84882cc46472--venerable-shortbread-888b92.netlify.app/)
 
 ---
 
